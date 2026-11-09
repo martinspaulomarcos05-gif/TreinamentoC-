@@ -2394,11 +2394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Coisas_Minhas\\meu_treinamento\\tentando_aprender\\tentando_aprender.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Coisas_Minhas\\pasta_principal\\meu_treinamento\\tentando_aprender\\tentando_aprender.csproj",
       "projectName": "tentando_aprender",
-      "projectPath": "C:\\Users\\marti\\Coisas_Minhas\\meu_treinamento\\tentando_aprender\\tentando_aprender.csproj",
+      "projectPath": "C:\\Users\\marti\\Coisas_Minhas\\pasta_principal\\meu_treinamento\\tentando_aprender\\tentando_aprender.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Coisas_Minhas\\meu_treinamento\\tentando_aprender\\obj\\",
+      "outputPath": "C:\\Users\\marti\\Coisas_Minhas\\pasta_principal\\meu_treinamento\\tentando_aprender\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config"

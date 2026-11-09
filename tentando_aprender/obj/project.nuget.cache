@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ydk/3Ric+d8=",
+  "dgSpecHash": "H4/wNLkm2tQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Coisas_Minhas\\meu_treinamento\\tentando_aprender\\tentando_aprender.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Coisas_Minhas\\pasta_principal\\meu_treinamento\\tentando_aprender\\tentando_aprender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
